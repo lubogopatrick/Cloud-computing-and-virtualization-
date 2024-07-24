@@ -1,1 +1,44 @@
 https://www.ibm.com/topics/cloud-computing
+
+Cloud computing and virtualization are two related but distinct concepts:
+
+Cloud Computing:
+
+- On-demand access to shared computing resources (servers, storage, applications, etc.) over the internet
+- Resources are dynamically allocated and scaled based on demand
+- Pay-as-you-go pricing model
+- Characteristics: on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service
+
+Virtualization:
+
+- Creating a virtual version of a physical resource (server, desktop, network, etc.)
+- Multiple virtual resources can run on a single physical resource
+- Virtual resources are isolated from each other and from the physical resource
+- Benefits: hardware abstraction, improved resource utilization, increased flexibility, and easier management
+
+Key differences:
+
+- Cloud computing focuses on delivering computing resources over the internet
+- Virtualization focuses on creating virtual resources on a physical infrastructure
+
+Types of virtualization:
+
+- Server virtualization
+- Desktop virtualization
+- Network virtualization
+- Storage virtualization
+
+Cloud computing deployment models:
+
+- Public cloud
+- Private cloud
+- Hybrid cloud
+- Community cloud
+
+Cloud computing service models:
+
+- Infrastructure as a Service (IaaS)
+- Platform as a Service (PaaS)
+- Software as a Service (SaaS)
+
+In summary, virtualization is a technology that enables cloud computing by allowing multiple virtual resources to run on a single physical resource, increasing resource utilization and flexibility. Cloud computing is a service model that delivers computing resources over the internet, leveraging virtualization to provide scalable and on-demand resources.
