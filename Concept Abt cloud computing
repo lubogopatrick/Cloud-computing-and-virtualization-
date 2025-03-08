@@ -4,17 +4,17 @@ Cloud computing and virtualization are two related but distinct concepts:
 
 Cloud Computing:
 
-- On-demand access to shared computing resources (servers, storage, applications, etc.) over the internet
-- Resources are dynamically allocated and scaled based on demand
-- Pay-as-you-go pricing model
-- Characteristics: on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service
+On-demand access to shared computing resources (servers, storage, applications, etc.) over the internet
+Resources are dynamically allocated and scaled based on demand
+Pay-as-you-go pricing model
+Characteristics: on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service
 
 Virtualization:
 
-- Creating a virtual version of a physical resource (server, desktop, network, etc.)
-- Multiple virtual resources can run on a single physical resource
-- Virtual resources are isolated from each other and from the physical resource
-- Benefits: hardware abstraction, improved resource utilization, increased flexibility, and easier management
+Creating a virtual version of a physical resource (server, desktop, network, etc.)
+ Multiple virtual resources can run on a single physical resource
+Virtual resources are isolated from each other and from the physical resource
+Benefits: hardware abstraction, improved resource utilization, increased flexibility, and easier management
 
 Key differences:
 
